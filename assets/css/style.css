@@ -81,10 +81,6 @@ h6 {
     opacity: 1;
 }
 
-/*--------------------------------------------------------------
-# Override some default Bootstrap stylings
---------------------------------------------------------------*/
-/* Dropdown menus */
 .dropdown-menu {
     border-radius: 4px;
     padding: 10px 0;
